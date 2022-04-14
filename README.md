@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azkron</h1>
 <h3 align="center">I'm Developpeur for FiveM</h3>
-<img align="left" alt='GifDev' width="300" src='https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'>
+<img align="left" alt='GifDev' width="275" src='https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'>
 
 <h2 align="left">Connect with me:</h3>
 <p align="left">
