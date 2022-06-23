@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Five-Life, AzkDev<br>🎈  I'm collaborate RKZ-Framework<br>🌱 I'm currently learning [JavaScript, Html, Css, Php, C#, Lua]<br>🔔  Developer for Five-Life
+🔭 I'm currently working on Five-Life, AzkDev<br>🎈  I'm collaborate RKZ-Framework<br>🌱 I'm currently learning [JavaScript, Html, Css, Php, C#, Lua]<br>🔔  Developer for LS NIGHT
 
 
 ## 🌐 Socials:
