@@ -33,15 +33,9 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/Azk0rn/Azk0rn/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Azk0rn/count.svg?"  />
 </div>
 
 ###
-Profile Readme Generator
+
